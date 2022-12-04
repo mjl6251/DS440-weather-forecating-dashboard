@@ -1,5 +1,5 @@
 # DS440-weather-forecating-dashboard
-# Group 13 - Meihua Li, Han Wang
+### Group 13 - Meihua Li, Han Wang
 
 This online weather forecasting dashboard using HTML, CSS, and JavaScript.
 
